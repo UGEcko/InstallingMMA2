@@ -4,7 +4,7 @@ This is a instuctional repo showing how to install MMA2 (Mediocre Map Assistant 
 Downloading MMA2 and the overall setup is pretty unessessarily difficult, especially for new mappers. 
 
 Please follow this link to the official BSMG Dev Website that holds MMA2 hosted by Top_Cat, and download the MMA2.zip:
- * https://git.bsmg.dev/Top_Cat/MediocreMapAssistant2/releases/tag/4.8.4
+ * https://git.bsmg.dev/Top_Cat/MediocreMapAssistant2/releases/
  ![image](https://user-images.githubusercontent.com/38820051/153108460-8d7d44b9-7659-4d82-b91b-a7e724019485.png)
 
 
@@ -28,5 +28,18 @@ Click the gear
 ![image](https://user-images.githubusercontent.com/38820051/153109730-cef74965-2096-435d-9cbd-36e1d100562d.png)
 Then click manage/Browse Local Files.
 ![image](https://user-images.githubusercontent.com/38820051/153109791-7de69607-363e-4ade-b8db-8e72fb33078c.png)
+
+You then click BeatSaber_Data![image](https://user-images.githubusercontent.com/38820051/153298665-180f12fe-e468-4e2c-a2b8-39a2e4743e4a.png)
+
+Then copy the paths of the two top folders:
+![image](https://user-images.githubusercontent.com/38820051/153298734-6c274bb0-7b98-4ceb-9a58-81ac571040c6.png)
+
+#
+Then paste the two paths in the two path entires in MMA2. Then you are done!
+#
+#Problems:
+If you havent modded your game yet, please mod it with Mod assistant, this gives you the folders you need, and a couple extra folders. If you want any custom levels to play at all, you need mod assitant: https://github.com/Assistant/ModAssistant/releases
+
+
 
 
